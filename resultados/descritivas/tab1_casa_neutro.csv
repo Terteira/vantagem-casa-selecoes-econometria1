@@ -1,0 +1,11 @@
+"variavel","em_casa","neutro","desvio_total","diferenca","dif_padronizada"
+"Saldo de gols",0.66,0.233,2.258,0.427,0.187
+"Vitória do mandante",0.506,0.428,0.5,0.078,0.157
+"Empate",0.233,0.236,0.423,-0.003,-0.006
+"Derrota do mandante",0.261,0.336,0.449,-0.075,-0.165
+"Dif. de Elo (centenas)",0.082,0.241,2.441,-0.16,-0.067
+"Dif. de forma (pontos)",0.019,0.051,0.765,-0.032,-0.042
+"Dif. de forma (saldo)",0.046,0.099,1.547,-0.053,-0.034
+"Dif. de experiência (log)",0.05,0.032,0.9,0.018,0.021
+"Dif. de descanso (dias)",0.635,0.134,21.188,0.501,0.024
+"Jogos",34264,11415,NA,NA,NA
