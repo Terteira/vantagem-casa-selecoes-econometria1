@@ -1,0 +1,13 @@
+# Recriado pelo script a partir de cities500.zip
+dados/brutos/cities500.txt
+
+# Arquivos temporários do download
+*.part
+
+# Objetos grandes que o script recria (ver README)
+resultados/estimacao/modelos.rds
+
+# R e RStudio
+.Rhistory
+.RData
+.Rproj.user/
